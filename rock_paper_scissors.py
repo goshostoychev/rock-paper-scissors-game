@@ -3,7 +3,7 @@ from random import randint
 rock = 'Rock'
 paper = 'Paper'
 scissors = 'Scissors'
-player_move = input("Choose [r]ock, [p]aper or[s]cissors: ")
+player_move = input("Choose [r]ock, [p]aper or [s]cissors: ")
 
 if player_move == 'r':
     player_move = rock
